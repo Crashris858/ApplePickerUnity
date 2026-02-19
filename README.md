@@ -1,17 +1,17 @@
 # ApplePicker
 My customizations on the Apple Picker Unity Game. 
 
-##Controls: 
+## Controls: 
 <p> For this title you point the mouse to where you want the basket to move</p>
 
-##Difficulties: 
+## Difficulties: 
 
-###Easy: 
+### Easy: 
 Catch the ONE apple. 
 
-###Medium: 
+### Medium: 
 Don't let Pibble eat the apples. Wash Pibble's belly by moving the mouse 
 over his belly to calm him down. 
 
-###Hard: 
+### Hard: 
 Your mouuse is no use here. Use your beautiful voice to control the basket. 
